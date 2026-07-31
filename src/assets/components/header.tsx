@@ -11,7 +11,7 @@ export function Header(){
 
     {/* Navigition */}
 
-    <nav className="gap-10  flex  pr-20 ">
+    <nav className="gap-10  flex  pr-20">
         <NavLink to ="/" className =" pt-3 :">Home</NavLink>
         <NavLink to ="/" className="pt-3">About</NavLink>
         <NavLink to ="/" className ="pt-3">Blog</NavLink>
